@@ -1,0 +1,9 @@
+# common
+.env
+
+# node
+node_modules
+
+# laravel
+/vendor
+/storage/*.key
